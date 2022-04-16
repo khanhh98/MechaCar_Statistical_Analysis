@@ -9,3 +9,6 @@
 - Since the p-value of the model is 5.35 * e^(-11) which is significant lower than 0.05%, there is sufficient evidence to reject null hypothesis, hence the slope of the model is not zero
 - Since the R-squared is 0.72, the linear model effectively predict mpg of MechaCar prototypes
 
+## Summary Statistics on Suspension Coils
+![Screen Shot 2022-04-16 at 12 19 11 PM](https://user-images.githubusercontent.com/63434761/163688568-99a68338-f689-456a-84a3-1a412743642c.png)
+
