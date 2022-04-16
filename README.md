@@ -12,3 +12,7 @@
 ## Summary Statistics on Suspension Coils
 ![Screen Shot 2022-04-16 at 12 19 11 PM](https://user-images.githubusercontent.com/63434761/163688568-99a68338-f689-456a-84a3-1a412743642c.png)
 
+- Based on the requirements that suspension coils dictate the variance must not exceed 100 pounds per square inch, we can draw few conclusions:
+  + For lot 1 and lot 2, the variances are 0.98 and 7.46 consecutively hence these lots meet the design specification
+  + For lot 3, the variance is 170 which exceed the requirements hence it will not pass
+  + 
