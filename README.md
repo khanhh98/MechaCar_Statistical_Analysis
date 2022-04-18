@@ -15,4 +15,14 @@
 - Based on the requirements that suspension coils dictate the variance must not exceed 100 pounds per square inch, we can draw few conclusions:
   + For lot 1 and lot 2, the variances are 0.98 and 7.46 consecutively hence these lots meet the design specification
   + For lot 3, the variance is 170 which exceed the requirements hence it will not pass
-  + 
+
+## T-Tests on Suspension Coils
+![sample t-test](https://user-images.githubusercontent.com/63434761/163860167-1d0cfd93-ef9e-4d9f-9836-3bb6553afbc7.png)
+
+This is t-test results across all manufacturing lots
+
+Based on the image, assume our significant level is 0.05 the p-value is way above which suggests that we do not have sufficient evidence to reject the null hypothesis, hence the two means are statiscally similar. Therefore, the PSI level across the 3 lots is similar to the mean of the whole population
+
+![t_test_lot1](https://user-images.githubusercontent.com/63434761/163860780-9ecbd76b-eaa3-4cf6-aa56-e7cfeafb1b3f.png)
+
+This is t-test results fot lot 1 against mean PSI of the population
