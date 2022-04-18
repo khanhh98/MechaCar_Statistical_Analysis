@@ -26,3 +26,17 @@ Based on the image, assume our significant level is 0.05 the p-value is way abov
 ![t_test_lot1](https://user-images.githubusercontent.com/63434761/163860780-9ecbd76b-eaa3-4cf6-aa56-e7cfeafb1b3f.png)
 
 This is t-test results fot lot 1 against mean PSI of the population
+
+Since the p-value is lower than the significant level 0.05 which reject the null hypothesis. Therefore, the PSI level of lot 1 is approximate better than the mean population
+
+![t_test_lot2](https://user-images.githubusercontent.com/63434761/163866137-7a1a90dc-b0cc-401d-a770-314b8bb1152b.png)
+
+This is t-test results fot lot 2 against mean PSI of the population
+
+Since the p-value is lower than the significant level 0.05 which reject the null hypothesis. Therefore, the PSI level of lot 2 is approximate better than the mean population
+
+![t_test_lot3](https://user-images.githubusercontent.com/63434761/163866270-77acab2e-6046-47e6-b488-4de79d396a88.png)
+
+This is t-test results fot lot 3 against mean PSI of the population
+
+Since the p-value is higher than the significant level 0.05 which can not reject the null hypothesis. Therefore, the PSI level of lot 3 is approximate same as the mean population
