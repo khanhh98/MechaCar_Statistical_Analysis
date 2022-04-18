@@ -44,4 +44,10 @@ Since the p-value is higher than the significant level 0.05 which can not reject
 ## Study Design: MechaCar vs Competition
 
 There are few statistical study we can implement that can quantify how MechaCar performs against the competition
-In this particular study, we can compare the maintenance cost and safety rating
+In this particular study, we can compare the maintenance cost of the same car class over 5 years
+Hypothesis: 
+  + Null hypothesis: The mean cost of MechaCar is similar to the mean population
+  + Alternative hypothesis: The mean cost of MechaCar is statiscally different to the mean population
+Statistical test to use: t-test since we would like to know if the maintenance cost of MechaCar compare to competition
+Data needed: the maintenance cost of MechaCar and how much other cars cost to be maintained over the same year span 
+
