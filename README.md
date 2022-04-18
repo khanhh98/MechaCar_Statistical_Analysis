@@ -40,3 +40,8 @@ Since the p-value is lower than the significant level 0.05 which reject the null
 This is t-test results fot lot 3 against mean PSI of the population
 
 Since the p-value is higher than the significant level 0.05 which can not reject the null hypothesis. Therefore, the PSI level of lot 3 is approximate same as the mean population
+
+## Study Design: MechaCar vs Competition
+
+There are few statistical study we can implement that can quantify how MechaCar performs against the competition
+In this particular study, we can compare the maintenance cost and safety rating
